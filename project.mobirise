@@ -65,7 +65,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": true,
     "siteUrl": "",
-    "google-analytics": ""
+    "google-analytics": "<amp-analytics type=\"gtag\" data-credentials=\"include\">\n<script type=\"application/json\">\n{\n  \"vars\" : {\n    \"gtag_id\": \"UA-150766413-1\",\n    \"config\" : {\n      \"UA-150766413-1\": { \"groups\": \"default\" }\n    }\n  }\n}\n</script>\n</amp-analytics>"
   },
   "pages": {
     "index.html": {
