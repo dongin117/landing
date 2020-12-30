@@ -48,9 +48,6 @@
 		<loc>https://www.ituber.co.kr/ConferencePage.html</loc>
 	</url>
 	<url>
-		<loc>https://www.ituber.co.kr/DirectionPage.html</loc>
-	</url>
-	<url>
 		<loc>https://www.ituber.co.kr/TechPage.html</loc>
 	</url>
 	<url>
@@ -66,13 +63,7 @@
 		<loc>https://www.ituber.co.kr/ToktokTVPage.html</loc>
 	</url>
 	<url>
-		<loc>https://www.ituber.co.kr/BodleTVPage.html</loc>
-	</url>
-	<url>
 		<loc>https://www.ituber.co.kr/page23.html</loc>
-	</url>
-	<url>
-		<loc>https://www.ituber.co.kr/page24.html</loc>
 	</url>
 	<url>
 		<loc>https://www.ituber.co.kr/page25.html</loc>
@@ -81,12 +72,24 @@
 		<loc>https://www.ituber.co.kr/page26.html</loc>
 	</url>
 	<url>
-		<loc>https://www.ituber.co.kr/page27.html</loc>
+		<loc>https://www.ituber.co.kr/page29.html</loc>
+	</url>
+	<url>
+		<loc>https://www.ituber.co.kr/ituberStudio.html</loc>
 	</url>
 	<url>
 		<loc>https://www.ituber.co.kr/page28.html</loc>
 	</url>
 	<url>
-		<loc>https://www.ituber.co.kr/page29.html</loc>
+		<loc>https://www.ituber.co.kr/StudioLocationPage.html</loc>
+	</url>
+	<url>
+		<loc>https://www.ituber.co.kr/BodleTVPage.html</loc>
+	</url>
+	<url>
+		<loc>https://www.ituber.co.kr/LocationPage.html</loc>
+	</url>
+	<url>
+		<loc>https://www.ituber.co.kr/page30.html</loc>
 	</url>
 </urlset>
