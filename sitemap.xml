@@ -3,9 +3,6 @@
 		<loc>https://www.ituber.co.kr/index.html</loc>
 	</url>
 	<url>
-		<loc>https://www.ituber.co.kr/page6.html</loc>
-	</url>
-	<url>
 		<loc>https://www.ituber.co.kr/page12.html</loc>
 	</url>
 	<url>
@@ -91,5 +88,14 @@
 	</url>
 	<url>
 		<loc>https://www.ituber.co.kr/page30.html</loc>
+	</url>
+	<url>
+		<loc>https://www.ituber.co.kr/page31.html</loc>
+	</url>
+	<url>
+		<loc>https://www.ituber.co.kr/page34.html</loc>
+	</url>
+	<url>
+		<loc>https://www.ituber.co.kr/page35.html</loc>
 	</url>
 </urlset>
